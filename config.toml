@@ -1,0 +1,5 @@
+baseURL = "https://cflorencia1285/github.io/static_website_3"
+languageCode = "en-us"
+title = "MSIG XXI - My New Hugo Site"
+publishDir = "docs"
+theme = "ananke"
